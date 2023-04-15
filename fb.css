@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    background-color:#f0f2f5;
+    margin-top: 130px;
+}
+img {
+    width: 300px;
+    margin-bottom: 0;
+}
+.connect {
+    margin-left: 30px;
+    font-size: larger;
+   font-weight: 500;
+    margin-top: 0;
+    font-size: 26px;
+    width: 380px;
+    font-weight: 500;
+  
+}
+form {
+    background-color: white;
+    border-radius: 8px;
+   padding: 15px 15px 0 15px;
+    width: 380px;
+    height: 330px;
+    
+}
+.left {
+    margin-right: 200px;
+    margin-left: 230px;
+    margin-top: 45px;
+    
+    
+}
+.right {
+    text-align: center;
+}
+.email {
+    padding: 15px 180px 15px 10px;
+    border: 1px solid rgb(227, 222, 222);
+    border-radius: 5px;
+}
+.password {
+    padding: 15px 180px 15px 10px;
+    border: 1px solid rgb(227, 222, 222);
+    border-radius: 5px;
+}
+.login {
+    padding:13px 150px;
+    border: 1px solid rgb(227, 222, 222);
+    border-radius: 5px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.new-account {
+    padding: 14px 25px;
+    border: 1px solid rgb(227, 222, 222);
+    border-radius: 5px;
+    background-color: #42b72a;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bolder;
+    
+}
+hr {
+    color: rgb(227, 222, 222);
+    margin-bottom: 15px;
+    border: 0.1px solid rgb(227, 222, 222);
+}
+.page {
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
